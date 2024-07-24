@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Nasi Goreng",
+    "nominal": "200000",
+    "type": "expense",
+    "category": "food",
+    "date": "2024-07-15"
+  },
+  {
+    "title": "Bensin",
+    "nominal": "50000",
+    "type": "expense",
+    "category": "trasport",
+    "date": "2024-07-10",
+    "id": 2
+  },
+  {
+    "id": 3,
+    "title": "Gaji Juli",
+    "nominal": "2000000",
+    "type": "income",
+    "category": "sallary",
+    "date": "2024-07-01"
+  }
+]
